@@ -10,7 +10,7 @@ body {
   position: relative;
   text-align: center;
   padding: 100px 20px;
-  background: url("lobby.png") no-repeat center center/cover;
+  background-image: url("lobby.png") no-repeat center center/cover;
 }
 
 .overlay {
@@ -24,7 +24,7 @@ body {
 .title {
   position: relative;
   font-size: 3rem;
-  color: #88C0D0;
+  color: #90ee90;
   z-index: 1;
 }
 
