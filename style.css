@@ -10,7 +10,7 @@ body {
   position: relative;
   text-align: center;
   padding: 100px 20px;
-  background: url('https://imgur.com/7syuepY') no-repeat center center/cover;
+  background: img src="lobby.png" alt="lobby"> no-repeat center center/cover;
 }
 
 .overlay {
